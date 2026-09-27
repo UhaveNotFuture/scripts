@@ -1,2 +1,0 @@
-# Netspend
-script
